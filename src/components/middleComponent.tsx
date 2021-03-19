@@ -17,7 +17,7 @@ import {
 
 import slack_discussion from '../static/slack_discussion.png';
 import slack_guitar from '../static/slack_guitar.png';
-import slack_feeds from '../static/slack_feeds.png';
+import slack_feeds from '../static/slack_feeds1.png';
 import slack_group_chat from '../static/slack_group_chat.png';
 import slack_personal from '../static/slack_personal1.png';
 import slack_product_discussion from '../static/slack_product_discussion.png';

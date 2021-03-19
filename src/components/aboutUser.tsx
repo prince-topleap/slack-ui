@@ -159,12 +159,12 @@ const AboutUser = () => {
             label="Find"
             icon={<FindInPageIcon />}
           />
-          <IconButtonLabel
+          {/* <IconButtonLabel
             toolTipText="Call"
             action={dummyFn}
             label="Call"
             icon={<CallIcon />}
-          />
+          /> */}
           <IconButtonLabel
             toolTipText="More"
             action={dummyFn}

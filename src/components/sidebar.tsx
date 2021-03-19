@@ -76,7 +76,7 @@ const Sidebar = (props: any) => {
       },
       {
         type: "locked",
-        name: "feeds",
+        name: "personal-study",
       },
       {
         type: "random",
@@ -90,7 +90,7 @@ const Sidebar = (props: any) => {
       },
       {
         type: "group",
-        name: "Group Chat",
+        name: "Aayush Agarwal",
       },
       {
         type: "personal",
