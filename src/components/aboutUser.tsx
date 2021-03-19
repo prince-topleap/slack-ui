@@ -31,6 +31,8 @@ const useStyles = makeStyles((theme: Theme) =>
     root: {
       width: "100%",
       height: "100vh",
+      overflow: 'scroll',
+      overflowX: 'hidden',
       background: theme.palette.background.default,
     },
     heading: {
